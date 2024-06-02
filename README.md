@@ -1,4 +1,7 @@
 # PyVehicleCounter
+A basic counter app.
+
+## Usage
 1. You need classified vehicle count from a video.
 2. You start the app from a terminal `python VehicleCounter.py`. <br>You input the start date-time of the video.
 3. You hit start on both the video and the app simulataneously.
