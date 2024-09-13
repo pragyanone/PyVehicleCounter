@@ -1,5 +1,6 @@
 # PyVehicleCounter
 A basic counter app.
+The python code was developed using ChatGPT.
 
 ## Usage
 1. You need classified vehicle count from a video.
